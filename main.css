@@ -1,0 +1,180 @@
+body {
+    background-color: #aad4cf;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.innerbody {
+    margin: 0 500px;
+    background-color: rgb(203, 241, 253);
+
+}
+
+.imagetitle {
+
+    font-size: 55px;
+    background-image: url(images/lone-starfish-wide.jpg);
+    background-repeat: no-repeat;
+    width: 60%;
+    margin: 0 0 0 0;
+    color: white;
+    text-align: center;
+    padding: 20% 20% 10%;
+    line-height: normal;
+}
+
+/* TOP NAV OPTIONS */
+
+
+
+nav li {
+    display: inline;
+
+}
+
+li a {
+    font-size: 25px;
+    display: inline-block;
+    background-color: rgb(203, 241, 253);
+    width: 30%;
+    height: 40px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: normal;
+    color: black;
+
+}
+
+
+
+
+
+
+/*main content*/
+
+
+.fishlife {
+    font-size: 30px;
+
+}
+
+.fishtext {
+    line-height: 20px;
+    padding: 5px;
+    font-size: 14px;
+}
+
+
+.starimage {
+    size: 20%;
+    width: 200px;
+    float: left;
+    padding: 15px;
+}
+
+
+
+
+/* other header and list*/
+
+.facts {
+    font-size: 14px;
+}
+
+
+
+
+
+/* form*/
+
+.fishlife2 {
+    font-size: 30px;
+    line-height: 100px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*FORM*/
+
+
+
+.fieldbox{
+    margin: auto;
+    width: 95%;
+}
+
+.yourfield {
+    margin: 20px 0 7px 0;
+    font-family: Helvetica, sans-serif;
+}
+
+
+.longtextbox{
+    width: 99%;
+}
+
+
+
+.talltextbox{
+    width: 99%;
+    height: 100px;
+}
+
+
+
+
+
+
+
+
+
+.wouldyou{
+    font-weight: normal;
+}
+
+
+
+
+
+
+.button {
+    margin: 20px 0 20px 0px;
+    background-color: rgb(203, 241, 253);
+    font-size: 11px;
+    padding: 10px 5px 10px 5px;
+}
+
+
+
+
+
+
+
+
+
+.copyright{
+    text-align: right;
+    margin: 20px 10px 20px 10px;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+
+
+
+
+
